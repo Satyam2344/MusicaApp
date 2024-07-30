@@ -40,6 +40,7 @@ export const Sidebar = () => {
                     <p className='px-4 py-1.5 bg-white text-[15px] rounded-full mt-4 bg-gradient-to-r from-teal-400 to-blue-500 hover:from-pink-500 hover:to-orange-500 ... cursor-pointer'>Browse Podcasts</p>
                 </div>
             </div>
+            <h3>Developed By: Satyam Gupta</h3>
         </div>
     )
 }
